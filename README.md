@@ -1,69 +1,51 @@
-# Welcome to your Lovable project
+Questly - AI-Powered Personalized Learning Platform
 
-## Project info
+Introduction
 
-**URL**: https://lovable.dev/projects/fad767a5-2318-4d23-8c11-281c86c58583
+Questly is an innovative AI-driven learning platform designed to revolutionize online education by providing personalized learning experiences. With interactive AI assistance, gamified learning, and real-time feedback, Questly ensures higher engagement, motivation, and progress tracking for users.
 
-## How can I edit this code?
+Features
 
-There are several ways of editing your application.
+AI-Powered Learning Assistant (Chitty): Real-time support and guidance for learners.
 
-**Use Lovable**
+Personalized Learning Paths: Adaptive course recommendations based on user progress and interests.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fad767a5-2318-4d23-8c11-281c86c58583) and start prompting.
+Gamification Elements: Badges, leaderboards, and interactive quizzes to enhance engagement.
 
-Changes made via Lovable will be committed automatically to this repo.
+Real-Time Progress Tracking: Performance analytics and feedback for continuous improvement.
 
-**Use your preferred IDE**
+Seamless User Experience: Intuitive UI/UX for a cohesive learning journey.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Multi-Device Compatibility: Fully responsive across desktops, tablets, and mobile devices.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+User Feedback System: Integrated course rating and feedback mechanism for content improvement.
 
-Follow these steps:
+Challenges Overcome
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Seamless AI Integration: Synchronizing multiple AI components for a cohesive experience.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Backend-Frontend Synchronization: Optimizing API communication and data structures.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Dynamic Personalization: Implementing a recommendation system for adaptive learning.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+User Engagement & Retention: Enhancing interactivity through gamified learning experiences.
 
-**Edit a file directly in GitHub**
+Real-Time Data Optimization: Efficiently managing high user activity and database loads.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Cross-Platform Compatibility: Ensuring a consistent experience across all devices.
 
-**Use GitHub Codespaces**
+AI Accuracy & Responsiveness: Training AI for precise, context-aware chatbot interactions.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+User Feedback Integration: Building an intuitive system for actionable user insights.
 
-## What technologies are used for this project?
+Tech Stack
 
-This project is built with .
+Frontend: React.js, Tailwind CSS
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Backend: Node.js, Express.js
 
-## How can I deploy this project?
+Database: MongoDB
 
-Simply open [Lovable](https://lovable.dev/projects/fad767a5-2318-4d23-8c11-281c86c58583) and click on Share -> Publish.
+AI Components: Gemini AI, NLP-based chatbot (Chitty)
 
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Authentication: Firebase/Auth0
